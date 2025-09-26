@@ -1,0 +1,26 @@
+.form-container {
+border: 1px solid #ccc;
+padding: 15px;
+margin: 10px 0;
+width: 300px;
+}
+
+
+input {
+display: block;
+margin: 5px 0;
+padding: 5px;
+width: 100%;
+}
+
+
+button {
+margin-top: 10px;
+padding: 5px 10px;
+}
+
+
+.link {
+color: blue;
+cursor: pointer;
+}
